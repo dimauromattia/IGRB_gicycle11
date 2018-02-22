@@ -41,13 +41,8 @@ M.~Di~Mauro {\em et~al.} {\em ApJ}, vol.~786, p.~129, 2014.
 M.~Ackermann {\em et~al.} {\em PRL}, vol.~116, no.~15, p.~151105, 2016.
 
 \bibitem{Cuoco:2017bpv}
-A.~Cuoco, M.~Bilicki, J.-Q. Xia, and E.~Branchini, ``{Tomographic imaging of
-  the Fermi-LAT gamma-ray sky through cross-correlations: A wider and deeper
-  look},'' 2017.
+A.~Cuoco {\em et~al.}
 \newblock [Astrophys. J. Suppl.232,10(2017)].
-
-\bibitem{Cirelli:2010xx}
-M.~Cirelli {\em et~al.} {\em JCAP}, vol.~1103, p.~051, 2011.
 
 \bibitem{Capetti:2016srb}
 A.~Capetti, F.~Massaro, and R.~D. Baldi {\em A\&A}, vol.~598, p.~A49, 2017.
@@ -55,15 +50,18 @@ A.~Capetti, F.~Massaro, and R.~D. Baldi {\em A\&A}, vol.~598, p.~A49, 2017.
 \bibitem{Capetti:2017fjb}
 A.~Capetti, F.~Massaro, and R.~Baldi {\em A\&A}, vol.~601, p.~A81, 2017.
 
-\bibitem{Massaro:2015nia}
-E.~Massaro {\em et~al.} {\em Astrophys. Space Sci.}, vol.~357, no.~1, p.~75,
-  2015.
-
 \bibitem{Sanders:2003ms}
 D.~B. Sanders {\em et~al.} {\em Astron. J.}, vol.~126, p.~1607, 2003.
 
 \bibitem{2004ApJ...606..271G}
 Y.~{Gao} and P.~M. {Solomon} {\em ApJ}, vol.~606, pp.~271--290, 2004.
+
+\bibitem{Cirelli:2010xx}
+M.~Cirelli {\em et~al.} {\em JCAP}, vol.~1103, p.~051, 2011.
+
+\bibitem{Massaro:2015nia}
+E.~Massaro {\em et~al.} {\em Astrophys. Space Sci.}, vol.~357, no.~1, p.~75,
+  2015.
 
 \bibitem{DiMauro:2017ing}
 M.~Di~Mauro {\em et~al.} {\em arXiv: 1711.03111}, 2017.
